@@ -12,24 +12,6 @@
 
 ---
 
-## 🎬 Demo & Screenshots
-
-<p align="center">
-  <a href="https://youtu.be/your-demo-link">
-    <img src="docs/demo_gif.gif" alt="React Landing Page Demo" width="600"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="docs/screenshot1.png" alt="Landing Page Screenshot 1" width="280"/>
-  <img src="docs/screenshot2.png" alt="Landing Page Screenshot 2" width="280"/>
-  <img src="docs/screenshot3.png" alt="Landing Page Screenshot 3" width="280"/>
-</p>
-
-> Click the GIF above to view the **full demo video**.
-
----
-
 ## ⚙️ Key Features
 
 | Feature                  | Description                                                            |
