@@ -1,8 +1,6 @@
 
 # 🌐 React Landing Page Suite
 
-![React Landing Page Suite Banner](docs/header_banner.png)
-
 [![Top Language](https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge\&logo=javascript\&logoColor=white)](https://github.com/jonkllfaton/React-landing-page-suite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
